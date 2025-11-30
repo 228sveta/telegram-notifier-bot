@@ -1,1 +1,1 @@
-# telegram-notifier-bot
+# telegram-jokes-bot
